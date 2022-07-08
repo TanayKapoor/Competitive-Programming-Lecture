@@ -1,3 +1,5 @@
+package Jul08;
+
 import java.util.Scanner;
 
 public class arrayAsParameter {
