@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Maths.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS-Lectures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/src/addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jul01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jul04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jul07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jun30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jun30PS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maths/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maths/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ageDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/frequencyOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jul07Two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/occurrenceInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/perfectNumberEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/some/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/some/B.java" afterDir="false" />
+    <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added files">
+      <change afterPath="$PROJECT_DIR$/src/arrayAsParameter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +52,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.jul07Two">
+  <component name="RunManager" selected="Application.arrayAsParameter">
     <configuration name="Jul07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jul07" />
+      <module name="CS-Lectures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayAsParameter" />
       <module name="CS-Lectures" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="perfectNumberEfficient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="perfectNumberEfficient" />
-      <module name="CS-Lectures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayAsParameter" />
         <item itemvalue="Application.jul07Two" />
         <item itemvalue="Application.Jul07" />
         <item itemvalue="Application.arraySum" />
         <item itemvalue="Application.perfectNumberEfficient (1)" />
-        <item itemvalue="Application.perfectNumberEfficient" />
       </list>
     </recent_temporary>
   </component>
@@ -139,8 +114,16 @@
       <workItem from="1657084897011" duration="841000" />
       <workItem from="1657087813469" duration="3602000" />
       <workItem from="1657174356588" duration="5695000" />
-      <workItem from="1657261077451" duration="602000" />
+      <workItem from="1657261077451" duration="1050000" />
     </task>
+    <task id="LOCAL-00001" summary="Added files">
+      <created>1657262149693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657262149693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
