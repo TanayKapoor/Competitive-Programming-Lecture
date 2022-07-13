@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added files" />
+    <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Addef 08 Jul Files">
+      <change afterPath="$PROJECT_DIR$/src/Jul08/arrayCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jul08/jaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jul08/twoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jul13/singletonDesign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,49 +56,73 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arrayAsParameter">
-    <configuration name="Jul07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul07" />
-      <module name="CS-Lectures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.singletonDesign">
     <configuration name="arrayAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrayAsParameter" />
+      <option name="MAIN_CLASS_NAME" value="Jul08.arrayAsParameter" />
       <module name="CS-Lectures" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraySum" />
+    <configuration name="arrayCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul08.arrayCollection" />
       <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jul08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jul07Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jul07Two" />
+    <configuration name="jaggedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul08.jaggedArray" />
       <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jul08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="perfectNumberEfficient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="perfectNumberEfficient" />
+    <configuration name="singletonDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul13.singletonDesign" />
       <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jul13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul08.twoDimensionalArray" />
+      <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jul08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.singletonDesign" />
+        <item itemvalue="Application.twoDimensionalArray" />
+        <item itemvalue="Application.jaggedArray" />
+        <item itemvalue="Application.arrayCollection" />
         <item itemvalue="Application.arrayAsParameter" />
-        <item itemvalue="Application.jul07Two" />
-        <item itemvalue="Application.Jul07" />
-        <item itemvalue="Application.arraySum" />
-        <item itemvalue="Application.perfectNumberEfficient (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +142,8 @@
       <workItem from="1657084897011" duration="841000" />
       <workItem from="1657087813469" duration="3602000" />
       <workItem from="1657174356588" duration="5695000" />
-      <workItem from="1657261077451" duration="1545000" />
+      <workItem from="1657261077451" duration="4977000" />
+      <workItem from="1657695460637" duration="415000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1657262149693</created>
@@ -128,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657262659371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changed file structure">
+      <created>1657263091863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657263091863</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +186,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
+    <MESSAGE value="Changed file structure" />
+    <MESSAGE value="Addef 08 Jul Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addef 08 Jul Files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
