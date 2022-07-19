@@ -19,7 +19,7 @@ public class numberPattern {
             for (int l = 1; l <= i; l++) {
                 System.out.printf("%d", ++b + i * i);
                 if (l != i) {
-                    System.out.printf("*");
+                    System.out.print("*");
                 }
             }
             System.out.println();
