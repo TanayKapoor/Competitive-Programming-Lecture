@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added 13 Jul Files">
-      <change afterPath="$PROJECT_DIR$/src/Jul13/Adapter/adaptorClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignments/Hosteler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jul19/numberPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,27 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.singletonDesign">
-    <configuration name="arrayAsParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul08.arrayAsParameter" />
-      <module name="CS-Lectures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arrayCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul08.arrayCollection" />
-      <module name="CS-Lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jul08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.trianglePattern">
     <configuration name="jaggedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jul08.jaggedArray" />
       <module name="CS-Lectures" />
@@ -87,12 +67,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="numberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul19.numberPattern" />
+      <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jul19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="singletonDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jul13.singletonDesign" />
       <module name="CS-Lectures" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Jul13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trianglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul19.trianglePattern" />
+      <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jul19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.trianglePattern" />
+        <item itemvalue="Application.numberPattern" />
         <item itemvalue="Application.singletonDesign" />
         <item itemvalue="Application.twoDimensionalArray" />
         <item itemvalue="Application.jaggedArray" />
-        <item itemvalue="Application.arrayCollection" />
-        <item itemvalue="Application.arrayAsParameter" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +148,7 @@
       <workItem from="1657261077451" duration="4977000" />
       <workItem from="1657695460637" duration="1161000" />
       <workItem from="1657697963326" duration="463000" />
+      <workItem from="1658210607684" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1657262149693</created>
