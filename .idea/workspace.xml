@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added 13 Jul Files">
+      <change afterPath="$PROJECT_DIR$/src/Jul19/loopsFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jul19/palindromeRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jul19/recursiveFactorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jul19/numberPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jul19/numberPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +55,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.numberPattern">
+  <component name="RunManager" selected="Application.palindromeRecursion">
     <configuration name="diamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jul19.diamondPattern" />
+      <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jul19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loopsFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul19.loopsFactorial" />
       <module name="CS-Lectures" />
       <extension name="coverage">
         <pattern>
@@ -80,21 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singletonDesign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul13.singletonDesign" />
-      <module name="CS-Lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jul13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="trianglePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul19.trianglePattern" />
+    <configuration name="palindromeRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul19.palindromeRecursion" />
       <module name="CS-Lectures" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul08.twoDimensionalArray" />
+    <configuration name="recursiveFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jul19.recursiveFactorial" />
       <module name="CS-Lectures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jul08.*" />
+          <option name="PATTERN" value="Jul19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.palindromeRecursion" />
+        <item itemvalue="Application.loopsFactorial" />
+        <item itemvalue="Application.recursiveFactorial" />
         <item itemvalue="Application.numberPattern" />
         <item itemvalue="Application.diamondPattern" />
-        <item itemvalue="Application.trianglePattern" />
-        <item itemvalue="Application.singletonDesign" />
-        <item itemvalue="Application.twoDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +150,8 @@
       <workItem from="1657261077451" duration="4977000" />
       <workItem from="1657695460637" duration="1161000" />
       <workItem from="1657697963326" duration="463000" />
-      <workItem from="1658210607684" duration="3682000" />
+      <workItem from="1658210607684" duration="5391000" />
+      <workItem from="1658239513695" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1657262149693</created>
@@ -228,8 +231,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Jul19/numberPattern.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="10" />
+          <line>24</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
