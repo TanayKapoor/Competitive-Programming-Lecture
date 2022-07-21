@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added 13 Jul Files">
-      <change afterPath="$PROJECT_DIR$/src/Jul20/bankAcc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jul20/maxAndMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignments/maxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignments/maxAndMin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +188,7 @@
       <workItem from="1657697963326" duration="463000" />
       <workItem from="1658210607684" duration="5391000" />
       <workItem from="1658239513695" duration="441000" />
-      <workItem from="1658298354370" duration="4409000" />
+      <workItem from="1658298354370" duration="4739000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1657262149693</created>
