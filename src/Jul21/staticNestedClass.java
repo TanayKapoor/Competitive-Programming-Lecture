@@ -11,7 +11,7 @@ class outerClass {
         System.out.println("k = " + k);
     }
 
-    static class innerClass {
+    class innerClass {
         void display() {
             System.out.println("i = " + i);
         }
@@ -21,7 +21,7 @@ class outerClass {
 public class staticNestedClass {
     public static void main(String[] args) {
         outerClass obj = new outerClass();
-        outerClass.innerClass obj1 = new outerClass.innerClass();
+        outerClass.innerClass obj1 = obj.new innerClass();
         obj.display();
         obj1.display();
     }
