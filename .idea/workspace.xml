@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added 13 Jul Files">
-      <change afterPath="$PROJECT_DIR$/src/Aug3/collectionsAndStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug3/fileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug3/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug4/encoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug4/encodingRead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/Aug3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.fileReader">
+  <component name="RunManager" selected="Application.encodingRead">
     <configuration name="anonymousInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jul21.anonymousInnerClass" />
       <module name="CS-Lectures" />
@@ -79,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bankAcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul20.bankAcc" />
+    <configuration name="encoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug4.encoding" />
       <module name="CS-Lectures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.*" />
+          <option name="PATTERN" value="Aug4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encodingRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug4.encodingRead" />
+      <module name="CS-Lectures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aug4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,32 +111,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Aug3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignments.maxAndMin" />
-      <module name="CS-Lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="staticNestedClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul21.staticNestedClass" />
-      <module name="CS-Lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jul21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.encodingRead" />
+        <item itemvalue="Application.encoding" />
         <item itemvalue="Application.fileReader" />
         <item itemvalue="Application.anonymousInnerClass" />
         <item itemvalue="Application.staticNestedClass" />
-        <item itemvalue="Application.staticNestedClass (1)" />
-        <item itemvalue="Application.maxAndMin" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +170,8 @@
       <workItem from="1659415499960" duration="386000" />
       <workItem from="1659455120847" duration="2000" />
       <workItem from="1659499488837" duration="2638000" />
+      <workItem from="1659585376178" duration="1472000" />
+      <workItem from="1659586951194" duration="1324000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1657262149693</created>
