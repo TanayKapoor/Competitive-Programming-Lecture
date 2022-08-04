@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added 13 Jul Files">
-      <change afterPath="$PROJECT_DIR$/src/Jul21/anonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug3/collectionsAndStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug3/fileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug3/output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jul21/staticNestedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jul21/staticNestedClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tanay/Documents/GitHub/Competitive-Programming-Lecture&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -52,15 +54,18 @@
     &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.profiles&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Jul21" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Aug3" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.anonymousInnerClass">
+  <component name="RunManager" selected="Application.fileReader">
     <configuration name="anonymousInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jul21.anonymousInnerClass" />
       <module name="CS-Lectures" />
@@ -74,19 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bankAcc (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul20.bankAcc" />
-      <module name="CS-Lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jul20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="bankAcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jul20.bankAcc" />
       <module name="CS-Lectures" />
@@ -100,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bankAcc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jul20.bankAcc" />
+    <configuration name="fileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug3.fileReader" />
       <module name="CS-Lectures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignments.*" />
+          <option name="PATTERN" value="Aug3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fileReader" />
         <item itemvalue="Application.anonymousInnerClass" />
         <item itemvalue="Application.staticNestedClass" />
         <item itemvalue="Application.staticNestedClass (1)" />
         <item itemvalue="Application.maxAndMin" />
-        <item itemvalue="Application.bankAcc (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +179,10 @@
       <workItem from="1658383937939" duration="1729000" />
       <workItem from="1658386063123" duration="2932000" />
       <workItem from="1658729193203" duration="597000" />
+      <workItem from="1659414543832" duration="398000" />
+      <workItem from="1659415499960" duration="386000" />
+      <workItem from="1659455120847" duration="2000" />
+      <workItem from="1659499488837" duration="2638000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1657262149693</created>
