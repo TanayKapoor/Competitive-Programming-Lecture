@@ -13,7 +13,7 @@ public class TIC {
         thread_1.start();
 
         try {
-            Thread.sleep(3000);
+            Thread.sleep(1500);
         } catch (InterruptedException e) {
 
             e.printStackTrace();

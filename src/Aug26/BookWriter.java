@@ -14,7 +14,7 @@ public class BookWriter implements Runnable {
         synchronized (book) {
             System.out.println("Starting : " + book.getTitle());
             try {
-                Thread.sleep(1000);
+                Thread.sleep(500);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
