@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a97a351-8b52-449a-aab6-0434c89b9659" name="Changes" comment="Added 13 Jul Files">
-      <change beforePath="$PROJECT_DIR$/src/Aug26/BookWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug26/BookWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayProc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wealthAndMagic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aug26/TIC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug26/TIC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,27 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "/Users/tanay/Codes/Competitive-Programming-Lecture",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tanay/Codes/Competitive-Programming-Lecture&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Jul21" />
@@ -64,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/Aug3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TIC">
+  <component name="RunManager" selected="Application.arrayProc">
     <configuration name="TIC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aug26.TIC" />
       <module name="CS-Lectures" />
@@ -78,38 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="arrayProc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayProc" />
+      <module name="CS-Lectures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aug18.client2" />
       <module name="CS-Lectures" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Aug18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="encoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aug4.encoding" />
-      <module name="CS-Lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aug4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="encodingRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aug4.encodingRead" />
-      <module name="CS-Lectures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aug4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,13 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wealthAndMagic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wealthAndMagic" />
+      <module name="CS-Lectures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayProc" />
+        <item itemvalue="Application.wealthAndMagic" />
         <item itemvalue="Application.TIC" />
         <item itemvalue="Application.client2" />
         <item itemvalue="Application.server2" />
-        <item itemvalue="Application.encodingRead" />
-        <item itemvalue="Application.encoding" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +166,8 @@
       <workItem from="1660794727429" duration="18000" />
       <workItem from="1660794753430" duration="3409000" />
       <workItem from="1660839888030" duration="191000" />
-      <workItem from="1661486354785" duration="1994000" />
+      <workItem from="1661486354785" duration="3829000" />
+      <workItem from="1661671518261" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="Added files">
       <created>1657262149693</created>
